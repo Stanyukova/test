@@ -1,0 +1,13 @@
+body {
+    background-color: #bca7faba;
+  }
+
+h1,
+h2 {
+  color: #3a3a3a;
+  text-align: center;
+  margin: 70px 0 15px 0;
+  font-family: "Ubuntu Mono", monospace;
+  font-weight: 700;
+}
+
